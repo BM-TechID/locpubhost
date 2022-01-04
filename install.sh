@@ -5,4 +5,4 @@ chmod +x *
 clear
 echo "Done..."
 echo "Silahkan edit terlebih dahulu config bot.sh"
-ehho "Lalu masukan perintah ./run.sh untuk menjalankan"
+echo "Lalu masukan perintah ./run.sh untuk menjalankan"
