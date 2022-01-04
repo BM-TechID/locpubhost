@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 #localhost to publik
 clear
 screen -X -S "remot" quit
