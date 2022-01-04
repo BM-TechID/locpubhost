@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 #install
+clear
 apt install openssh -y
 chmod +x *
-clear
 echo "Done..."
 echo "Silahkan edit terlebih dahulu config bot.sh"
 echo "Lalu masukan perintah ./run.sh untuk menjalankan"
