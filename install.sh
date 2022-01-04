@@ -1,5 +1,3 @@
-#!/usr/bin/env bash
-#install
 clear
 apt install openssh -y
 chmod +x *
